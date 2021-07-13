@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122989910816",
+    "project_id": "fikir-deposu-7bd35",
+    "storage_bucket": "fikir-deposu-7bd35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122989910816:android:89b545d174d425da1f1545",
+        "android_client_info": {
+          "package_name": "com.example.fikirdeposu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122989910816-qostdq50bcfahjkjhhoarenut6tp6a40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi7th-LdRfKx_6qlhBrkXtO-KMilPRVTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122989910816-qostdq50bcfahjkjhhoarenut6tp6a40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
